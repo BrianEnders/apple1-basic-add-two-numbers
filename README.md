@@ -1,4 +1,4 @@
-This program is a rewrite of an Add Two Large Number source I found from a 
+This program is a rewrite of an Sum of Two Large Numbers source I found from a 
 website called geeksforgeeks.org writen by Danish Raza.
 
 I rewrote the program for Apple One BASIC. Apple One BASIC is extremely limited
